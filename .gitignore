@@ -216,6 +216,7 @@ pip-log.txt
 .mr.developer.cfg
 
 #############
-## Unity
+## Unity Project Specific
 #############
 BH Color/Library/
+BH Color/Temp/
